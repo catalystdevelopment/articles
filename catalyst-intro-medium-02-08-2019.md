@@ -1,4 +1,6 @@
-#Catalyst Introduction
+# Catalyst Introduction
+
+https://medium.com/@CatalystNetwork/catalyst-introduction-88d57d65a763
 
 Welcome to Catalyst! We are a new CryptoNote based blockchain that utilizes cutting edge technology to provide users with fast, secure, and private transactions to anyone in the world!
 
