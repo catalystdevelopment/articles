@@ -28,13 +28,13 @@ CryptoNote is an application layer protocol that aims to solve the problems outl
 - The inability to mine on ASIC hardware.
 - The use of bundles of CPU+GPU for greater performance.
 - Fundamental differences from bitcoin, which contributes to the growth of interest in new cryptocurrencies.
-- Innovation profitable CryptoNight coin isolated from most of the altcoins on the old algorithms.
+- The innovation of profitable CryptoNight-based coins are isolated from most of the altcoins on older algorithms.
 - Profitability and expediency of production are higher than most other cryptocurrencies.
 - Less heating of the graphics card and processor than when mining on other algorithms.
 
 The Catalyst currency is a utility-based coin that meshes with the global e-commerce & Payment industry. Since there are only 77,000,000 Catalyst that can ever exist, demand and a thriving decentralized ecosystem will result in an appreciation of the Catalyst coin value.
 
-We didn't have an I.C.O. or any pre-mined coins. So the distribution model is transparent, and the only coins the development team has, are from donations and personal mining.
+We didn't have an I.C.O. or any pre-mined coins. So the distribution model is transparent, and the only coins the development team has, are from donations, personal mining, and from purchases from other users and exchanges.
 
 If you are interested in mining, now is the best time for this, the global hash rate is relatively low, and even with low-end hardware, like a laptop or outdated PC you can earn a decent amount of Catalyst. 
 
@@ -45,23 +45,23 @@ And then use one of our community pools, like https://cx.turbomine.co, or start 
 
 **Exchanges.**
 
-Currently, we are listed on FirstCryptoBank under the CX ticker. You can buy or sell Catalyst there. The price is still affordable, so you can enter the market, and build a good position during the accumulation stage, with an excellent risk-reward ratio.
+Currently, we are listed on FirstCryptoBank and Tradelly under the CX ticker. You can buy or sell Catalyst there. The price is still affordable, so you can enter the market and build a good position during the accumulation stage, with an excellent risk-reward ratio.
 
-We are now, in the process of adding Catalyst to more exchanges, which will increase the volume, and make it accessible to a wider audience.
+We are continually in the process of adding Catalyst to more exchanges, which will increase the volume & adoption, and make it accessible to a wider audience.
 
-As a community project, we are always open to suggestions and new ideas on how to get better. You can join our Discord channel.
+As a community project, we are always open to suggestions and new ideas on how to improve. You can join our Discord channel.
 The Catalyst Discord Server!
 
 
 We try to stay connected and share the latest news and events from the project life on various social media platforms, check us out on Bitcointak, Facebook and Twitter:
 
-Our website is currently under a major design overhaul, visit it and let us know, what do you think! Also, follow us on medium, to read weekly digests about the Catalyst network.
+Our website is currently under a major design overhaul, visit it and let us know, what you think! Also, follow us on medium, to read weekly digests about the Catalyst network.
 
-We would like to thank the Catalyst community, for believing in the project, and sharing our vision of a free and independent society, we couldn't have done it without you guys and gals. We hope that together this goal could be achieved, and will do our best to develop and support the project.
+We would like to thank the Catalyst community, for believing in the project, and sharing our vision of a free and independent society, we couldn't have done it without you guys and gals. We hope that together this goal can be achieved, and we will do our best to develop and support the project.
 
 We want taking part in Catalyst life to be fun, enjoyable, and educational for anyone and everyone. All contributions are welcome, including issues, blog posts, tweets, and more!
 
-If you are worried or don't know where to start, welcome to our Discord channel, we are exceptionally friendly to newcomers and will help you with any questions regarding the project.
+If you are worried or don't know where to start, you are more than welcome to our Discord channel, we are exceptionally friendly to newcomers and will help you with any questions regarding the project.
 
 Sincerely yours,
 The Catalyst Dev. Team.
