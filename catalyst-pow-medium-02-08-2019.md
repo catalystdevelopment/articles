@@ -5,6 +5,6 @@
 ## the search for our new PoW
 
 ## Our new services
-[Paper wallet](https://wallet.catalyst-labs.gq/)
-[Developer run Mining Pool](https://www.cx-pool.gq/)
-[Block Explorer](https://www.cx-explorer.gq/index.html)
+-[Paper wallet](https://wallet.catalyst-labs.gq/)
+-[Developer run Mining Pool](https://www.cx-pool.gq/)
+-[Block Explorer](https://www.cx-explorer.gq/index.html)
