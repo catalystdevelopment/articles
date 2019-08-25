@@ -206,7 +206,7 @@ budget in any possible way.
 - Discord: https://discord.gg/byKYDyb
 - Block Explorer Cxex: https://cxex.catalystcrypto.net
 - Block Explorer Cx-explorer: https://www.cx-explorer.gq
-- Pool Cx-Pool: http://spookypool.nl/CX
+- Pool Spookypool: http://spookypool.nl/CX
 - Pool Alpha: https://alpha-pool.cryptocatalyst.net/
 - Pool Delta: https://delta-pool.cryptocatalyst.net/
 - Pool Omega: https://omega-pool.cryptocatalyst.net/
