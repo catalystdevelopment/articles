@@ -183,14 +183,14 @@ to donate if the overall amount won't hurt your
 budget in any possible way.
 
 **n8tb1t wallets:**
-CX:cat18x93ufCQWaX4f8f2c2fZ8Ku2A4VTcgEoSpweiDbgEBF9i7YA2XGX1dSR7UbguQU5UKYEXyjfaTfnJBmRhHju26n8Y9AAFx
-BTC:3AVRZEpfjofnENvNCHPDHYJwvXy21BXhf9
-LTC:LKtHbrCE4QtMUcC11ErpBVonS3X4WRTHEF
+- CX:cat18x93ufCQWaX4f8f2c2fZ8Ku2A4VTcgEoSpweiDbgEBF9i7YA2XGX1dSR7UbguQU5UKYEXyjfaTfnJBmRhHju26n8Y9AAFx
+- BTC:3AVRZEpfjofnENvNCHPDHYJwvXy21BXhf9
+- LTC:LKtHbrCE4QtMUcC11ErpBVonS3X4WRTHEF
 
 **dirtybits wallets:**
-CX:cat1Az2Xwt4byGrYeiKwxacV2pMahz7JaFPqW7eLbFPDP9kKT4rYMMq428KsZMbv8xK44j3dKBvaZW1VGzX4WVvb4R8ndN6WnD
-BTC:
-LTC:
+- CX:cat1Az2Xwt4byGrYeiKwxacV2pMahz7JaFPqW7eLbFPDP9kKT4rYMMq428KsZMbv8xK44j3dKBvaZW1VGzX4WVvb4R8ndN6WnD
+- BTC:
+- LTC:
 
 ## Catalyst Community Links:
 
