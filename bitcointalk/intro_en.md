@@ -10,7 +10,7 @@
 [/code]
 [font=monospace][glow=#fd5646,2,300][b][size=13pt][color=#ecedf3]Catalyst — is a decentralized blockchain platform, based on Argon2id/Chukwa algorithm.[/color][/size][/b][/glow][/font]
 [font=monospace][size=12pt]
-"Catalyst"  — is an anonymous platform, based on blockchain distributed 
+"Catalyst"  — is an anonymous platform, based on blockchain distributed 
 network, intended to make almost instant payments 
 with extremely low commission fees.
 
@@ -21,15 +21,15 @@ The payment system is only one of many use cases it can be used for.
 Catalyst was created by the community — for the community.
 
 We do not recognize I.C.Os, Master Nodes, stacking 
-and technical emission a.k.a.  (premine).
+and technical emission a.k.a.  (premine).
 
-Every participant of the consensus  — has equal rights.
+Every participant of the consensus  — has equal rights.
 
 Developers and miners do not have any preferences 
 or special treatment and are regular members of the collective.
 
 The main goal of Catalyst is to create an infrastructure for Dapps 
-(decentralized applications), in order to give independent and creative  
+(decentralized applications), in order to give independent and creative  
 people a chance to adapt in a constantly changing world, 
 and get back control of their privacy and security.
 
@@ -74,7 +74,7 @@ just spend some time with a lot of fun.
 [/color][/size][/font][/b]
 [font=monospace][glow=#fd5646,2,300][b][size=13pt][color=#ecedf3]Links:[/color][/size][/b][/glow][/font]
 [b][font=monospace][size=12pt][color=#fd5646]
-[glow=#fd5646,2,300][color=#ecedf3]Website:[/color][/glow][glow=#B5DDA4,2,300] [url=https://www.cryptocatalyst.net]СryptoСatalyst.[/url][/glow]
+[glow=#fd5646,2,300][color=#ecedf3]Website:[/color][/glow][glow=#B5DDA4,2,300] [url=https://www.cryptocatalyst.net]CryptoCatalyst.[/url][/glow]
 [glow=#fd5646,2,300][color=#ecedf3]GitHub:[/color][/glow][glow=#B5DDA4,2,300] [url=https://github.com/catalystdevelopment]CatalystDevelopment.[/url][/glow]
 [glow=#fd5646,2,300][color=#ecedf3]Funding System:[/color][/glow][glow=#B5DDA4,2,300] [url=https://funding.cryptocatalyst.net]Funding System.[/url][/glow]
 [glow=#fd5646,2,300][color=#ecedf3]Articles/Blog:[/color][/glow][glow=#B5DDA4,2,300] [url=https://medium.com/@CatalystNetwork]Medium.[/url][/glow]
@@ -95,6 +95,7 @@ just spend some time with a lot of fun.
 [glow=#B5DDA4,2,300][url=https://github.com/catalystdevelopment/catalyst-gui-wallet] GUI Wallet.[/url][/glow]
 [glow=#B5DDA4,2,300][url=https://github.com/catalystdevelopment/catalyst/releases] Console CLI.[/url][/glow]
 [glow=#B5DDA4,2,300][url=https://paperwallet.cryptocatalyst.net/] Paper Wallet.[/url][/glow]
+[glow=#B5DDA4,2,300][url=https://mega.nz/#F!iroGiQrS!9-EGhfgixzva_WMp_UDzZA/] Snapshot block 381187.[/url][/glow]
 [/color][/size][/font][/b]
 [font=monospace][glow=#fd5646,2,300][b][size=13pt][color=#ecedf3]Roadmap:[/color][/size][/b][/glow][/font]
 [b][font=monospace][size=12pt][color=#fd5646]
